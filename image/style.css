@@ -11,6 +11,15 @@ p{
    font-family :fantasy;
    font-size :20px;
 }
+a{text-decoration: none;
+   font-family: helvetica;sans-serif;
+   background-color: aquamarine;
+   padding: 5px;
+}
+a:hover{
+   background-color: aqua;
+   color: white;
+}
 
 
 
